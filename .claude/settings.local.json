@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(if not exist \"e:\\\\BT\\\\Portfolio\\\\Portfolio\\\\.vscode\" mkdir \"e:\\\\BT\\\\Portfolio\\\\Portfolio\\\\.vscode\")"
+    ]
+  }
+}
